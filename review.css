@@ -108,6 +108,10 @@ header {
     font-size: 1.2rem;
 }
 
+#about-head abbr{
+    color: white;
+}
+
 #about-head img{
     border-radius: 70%;
 }
@@ -180,6 +184,7 @@ header {
     width: 100%;
 }
 
+
 .testimonial-box{
     width: 500px;
     background-color: aliceblue;
@@ -187,6 +192,7 @@ header {
     margin: 15px;
     cursor: pointer;
 }
+
 
 .profile-img{
     width: 60px;
