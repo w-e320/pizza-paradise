@@ -112,6 +112,10 @@ header {
     color: white;
 }
 
+#about-head marquee{
+    color: white;
+}
+
 #about-head img{
     border-radius: 70%;
 }
@@ -258,13 +262,13 @@ header {
     background-color: #eee;
 }
 
-.footer .container .boxs h3{
+.footer .container .box h3{
     margin-left: 5rem;
     padding: 1rem;
     font-size: 1rem;
 }
 
-.footer .container .boxs a{
+.footer .container .box a{
     margin-left: 5rem;
     display: block;
     padding: 5rem, 0;
@@ -273,7 +277,7 @@ header {
     color: black;
 }
 
-.footer .container .boxs a:hover {
+.footer .container .box a:hover {
     padding-left: 2rem;
     transition: .5s;
 }
