@@ -144,7 +144,7 @@ function delElement(a){
 
 function displaycart(a){
     let j = 0, total=0;
-    document.getElementById("total").innerHTML=cart.length;
+    document.getElementById("count").innerHTML=cart.length;
     if(cart.length==0){
         document.getElementById('cartItem').innerHTML = "Your cart is empty";
         document.getElementById('total').innerHTML = "RM"+.0+".00";
